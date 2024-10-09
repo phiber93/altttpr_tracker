@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import SettingsPage from './views/SettingsPage.vue';
+import SettingsPage from './views/SettingsPage.vue'
 </script>
 
 <template>
